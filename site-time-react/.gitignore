@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.local
+.vite
+
+# artefatos gerados na extração de reviews (prints dos PPTX)
+public/slides-auto
+extraido
+
+# credenciais — nunca versionar
+.env
+.env.*
+!.env.example

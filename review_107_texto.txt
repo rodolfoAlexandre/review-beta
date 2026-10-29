@@ -1,0 +1,265 @@
+﻿===== SLIDE 1 =====
+Review - Squad Beta
+Sprint 107(12outubro a 23 outubro)
+
+===== SLIDE 2 =====
+A Equipe
+
+===== SLIDE 3 =====
+Suporte / Sustentação
+Luana
+N2
+Rita
+QA
+Qualidade
+Engenharia
+LucianoCoordenador
+Rafael
+Arquiteto
+Produto
+Kaique
+Especialista de Produto
+Guilherme
+Gerente de Produto
+Gerência
+Mayara
+Designer
+Tinoco
+CoordDesigner
+Design
+TriboAvaliações|Squad Beta
+Priscila
+N2
+Mariana
+N2
+Rafaella
+EspecialistaemRedação
+Pamela
+QA
+Especialista em redação
+Daniel
+Desenvolvedor
+Maicon
+Desenvolvedor
+Henrique
+Desenvolvedor
+Ronaldo
+Desenvolvedor
+Victor
+Desenvolvedor
+Roberta
+Desenvolvedora
+Túlio
+Desenvolvedor
+Rodolfo
+Tech Lead
+Lucas
+Gerente Engenharia
+Arquitetura
+
+===== SLIDE 4 =====
+
+===== SLIDE 5 =====
+Fique por dentro
+
+===== SLIDE 6 =====
+Taxa de chamados
+-33,0%
+-7,88pp
+SLA VIP
+67,47%
++6,57pp
+SLA
+90,29%
++0,82pp
+Acelerar>= 93%
+Meta
+>= 90%
+Mínimo>= 87%
+Acelerar>= 69%
+Meta
+>= 67%
+Mínimo>= 65%
+Acelerar>= -30%
+Meta
+>= -20%
+Mínimo>= -10%
+P+ Redação
+CatLearning
+Taxa de chamados
+-4,07%
+-1,69pp
+SLA VIP
+62,50%
++0,68pp
+SLA
+88,18%
++0,44pp
+Taxa de chamados
+-30,74%
+-0,12pp
+SLA VIP
+73,39%
+-0,81pp
+SLA
+90,53%
+.+0,17pp
+Geral
+
+===== SLIDE 7 =====
+2025
+71,97%
++4,14pp
+CSAT​
+🎉
+
+===== SLIDE 8 =====
+PI Planning
+PI Planning - P+ Redação
+
+===== SLIDE 9 =====
+Fique por dentro
+
+===== SLIDE 10 =====
+De olho no usuário
+
+===== SLIDE 11 =====
+Voz do Time
+
+===== SLIDE 12 =====
+Título Exemplo do Incremento
+Insiraaquiumadescrição resumindoo que éesseincrementodeprodutoe qual oefeitodissonaaplicação. Umaopçãoédescrevero Antes //Depois.
+Insiraaquiqual valorestásendogeradopeloseuincrementodeproduto(ex.Previneaberturadechamados,melhoraexperiênciadousuário,aumentamaturidadetécnica, …)
+Dev: Nome do dev
+AMBIENTE: PRD, ReleaseouN/A
+
+===== SLIDE 13 =====
+Título Exemplo do Incremento
+Insiraaquiumadescrição resumindoo que éesseincrementodeprodutoe qual oefeitodissonaaplicação. Umaopçãoédescrevero Antes //Depois.
+Insiraaquiqual valorestásendogeradopeloseuincrementodeproduto(ex.Previneaberturadechamados,melhoraexperiênciadousuário,aumentamaturidadetécnica, …)
+Dev: Nome do dev
+AMBIENTE: PRD, ReleaseouN/A
+
+===== SLIDE 14 =====
+#105102: Exibição de módulo nas solicitações - Aluno/Responsável
+Na Listagem de Solicitações, foi implementada a exibição do módulo vinculado à proposta nos cards de solicitação para os perfis Aluno e Responsável.Alémdisso,emDetalhesdaSolicitação, o módulo também passa a serexibidoquandoapropostaestivervinculadaa ummódulo.
+Dev: Victor
+AMBIENTE: STAGING
+
+===== SLIDE 15 =====
+#105082: Detalhes do Aluno - Identificação de Módulo(s) no Cabeçalho
+Na tela de Detalhes do Aluno, foi implementada a exibição dos Módulos vinculados ao estudante no cabeçalho, junto às informações de Ano/Série e Turma, permitindo identificar seus vínculos no ano letivo consultado.
+Dev: Victor
+AMBIENTE: STAGING
+
+===== SLIDE 16 =====
+#105077: Listagem de Alunos - Filtrar alunos por módulo
+Passouapermitirquealistagemdealunosretorne,emumúnicoitem, aturmaregular etodososmódulosvinculadosaoaluno,alémdepossibilitarafiltragempelocampoclassId,contemplandotantoturmasquantomódulos.
+Dev: Maicon
+AMBIENTE: STAGING
+
+===== SLIDE 17 =====
+#105082: Detalhes do Aluno - Identificação de Módulo(s) no Cabeçalho
+O endpointfoiatualizadopararetornarumacoleçãodeturmasemódulosdoaluno,incluindoaidentificaçãodotipo(TurmaRegularouMódulo),possibilitandosuaexibiçãonocabeçalhodaaplicação.
+Dev: Maicon
+AMBIENTE: STAGING
+
+===== SLIDE 18 =====
+#105082: Detalhes do Aluno - Identificação de Módulo(s) no Cabeçalho
+O endpointfoiatualizadopararetornarumacoleçãodeturmasemódulosdoaluno,incluindoaidentificaçãodotipo(TurmaRegularouMódulo),possibilitandosuaexibiçãonocabeçalhodaaplicação.
+Dev: Ronaldo
+AMBIENTE: STAGING
+
+===== SLIDE 19 =====
+Qualidade
+
+===== SLIDE 20 =====
+IndicadoresdeQualidade
+Indicador
+Sprint104
+Sprint105
+Sprint106
+Testesiniciais
+67
+-
+70
+-
+97
+14 retroativo
+Retestes
+7
+10
+17
+5 retroativo
+Bugs
+7
+-
+16
+5 retroativo
+2 reincidente
+8
+1 reincidente
+Tarefasacompanhadas
+11
+-
+10
+-
+14
+3 retroativo
+TOTAL DE TESTESINICIAIS
+234
+soma das sprints
+TOTAL DE RETESTES
+34
+soma das sprints
+TOTAL DE BUGS
+35
+soma das sprints
+Execuções totais
+(testes iniciais + retestes)
+% de retestes
+(retestes/execuções totais)
+Sprint 104
+74
+Sprint 105
+80
+Sprint 106
+114
+Sprint 104
+0,09%
+Sprint 105
+0,13%
+Sprint 106
+0,15%
+
+===== SLIDE 21 =====
+Bugsporcategoria
+INSIGHTS
+Sprint 104
+Houve aumento do volume e maior diversidade de causas.
+Sprint 105
+Forte concentração em Funcionalidade e Negócio. 2 bugs foram reincidentes
+Sprint 106
+Forte concentração em Funcionalidade e Negócio. 2 bugs foram reincidentes
+
+===== SLIDE 22 =====
+Comparativo de Bugs entre Sprint
+
+===== SLIDE 23 =====
+Produtividade
+
+===== SLIDE 24 =====
+% Estimado= Completed/Planned
+% Assumido= Completed/(Completed+Incomplete)
+Performance de Entregas daSquadpor Sprint
+138% doEstimado
+100% doAssumido
+Review 106
+62% doEstimado
+60% doAssumido
+Review 105
+
+===== SLIDE 25 =====
+Obrigado!
+
+

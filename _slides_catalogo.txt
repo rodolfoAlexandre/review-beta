@@ -1,0 +1,312 @@
+﻿################ SLIDE 1 ################
+  T| Review - Squad Beta
+  T| Sprint 107(12outubro a 23 outubro)
+
+################ SLIDE 2 ################
+  T| A Equipe
+
+################ SLIDE 3 ################
+  T| Suporte / Sustentação
+  T| Luana
+  T| N2
+  T| Rita
+  T| QA
+  T| Qualidade
+  T| Engenharia
+  T| LucianoCoordenador
+  T| Rafael
+  T| Arquiteto
+  T| Produto
+  T| Kaique
+  T| Especialista de Produto
+  T| Guilherme
+  T| Gerente de Produto
+  T| Gerência
+  T| Mayara
+  T| Designer
+  T| Tinoco
+  T| CoordDesigner
+  T| Design
+  T| TriboAvaliações|Squad Beta
+  T| Priscila
+  T| N2
+  T| Mariana
+  T| N2
+  T| Rafaella
+  T| EspecialistaemRedação
+  T| Pamela
+  T| QA
+  T| Especialista em redação
+  T| Daniel
+  T| Desenvolvedor
+  T| Maicon
+  T| Desenvolvedor
+  T| Henrique
+  T| Desenvolvedor
+  T| Ronaldo
+  T| Desenvolvedor
+  T| Victor
+  T| Desenvolvedor
+  T| Roberta
+  T| Desenvolvedora
+  T| Túlio
+  T| Desenvolvedor
+  T| Rodolfo
+  T| Tech Lead
+  T| Lucas
+  T| Gerente Engenharia
+  T| Arquitetura
+  IMG| media/image1.jpeg
+  IMG| media/image2.png
+  IMG| media/image3.png
+  IMG| media/image4.png
+  IMG| media/image5.png
+  IMG| media/image6.png
+  IMG| media/image7.png
+  IMG| media/image8.png
+  IMG| media/image9.png
+  IMG| media/image10.jpeg
+  IMG| media/image11.png
+  IMG| media/image12.jpeg
+  IMG| media/image13.jpeg
+  IMG| media/image14.jpeg
+  IMG| media/image15.jpeg
+  IMG| media/image16.jpeg
+  IMG| media/image17.jpeg
+  IMG| media/image18.jpeg
+  IMG| media/image19.jpeg
+  IMG| media/image20.jpeg
+  IMG| media/image21.jpeg
+
+################ SLIDE 4 ################
+  IMG| media/image22.png
+
+################ SLIDE 5 ################
+  T| Fique por dentro
+
+################ SLIDE 6 ################
+  T| Taxa de chamados
+  T| -33,0%
+  T| -7,88pp
+  T| SLA VIP
+  T| 67,47%
+  T| +6,57pp
+  T| SLA
+  T| 90,29%
+  T| +0,82pp
+  T| Acelerar>= 93%
+  T| Meta
+  T| >= 90%
+  T| Mínimo>= 87%
+  T| Acelerar>= 69%
+  T| Meta
+  T| >= 67%
+  T| Mínimo>= 65%
+  T| Acelerar>= -30%
+  T| Meta
+  T| >= -20%
+  T| Mínimo>= -10%
+  T| P+ Redação
+  T| CatLearning
+  T| Taxa de chamados
+  T| -4,07%
+  T| -1,69pp
+  T| SLA VIP
+  T| 62,50%
+  T| +0,68pp
+  T| SLA
+  T| 88,18%
+  T| +0,44pp
+  T| Taxa de chamados
+  T| -30,74%
+  T| -0,12pp
+  T| SLA VIP
+  T| 73,39%
+  T| -0,81pp
+  T| SLA
+  T| 90,53%
+  T| .+0,17pp
+  T| Geral
+  IMG| media/image23.png
+  IMG| media/image24.png
+  IMG| media/image25.png
+  IMG| media/image26.png
+  IMG| media/image27.png
+  IMG| media/image28.png
+  IMG| media/image29.png
+  IMG| media/image30.png
+  IMG| media/image31.png
+  IMG| media/image32.png
+  IMG| media/image33.png
+  IMG| media/image34.png
+
+################ SLIDE 7 ################
+  T| 2025
+  T| 71,97%
+  T| +4,14pp
+  T| CSAT​
+  T| 🎉
+  IMG| media/image35.png
+  IMG| media/image36.png
+  IMG| media/image37.png
+  IMG| media/image38.png
+
+################ SLIDE 8 ################
+  T| PI Planning
+  T| PI Planning - P+ Redação
+
+################ SLIDE 9 ################
+  T| Fique por dentro
+
+################ SLIDE 10 ################
+  T| De olho no usuário
+  IMG| media/image39.png
+  IMG| media/image40.png
+
+################ SLIDE 11 ################
+  T| Voz do Time
+
+################ SLIDE 12 ################
+  T| Título Exemplo do Incremento
+  T| Insiraaquiumadescrição resumindoo que éesseincrementodeprodutoe qual oefeitodissonaaplicação. Umaopçãoédescrevero Antes //Depois.
+  T| Insiraaquiqual valorestásendogeradopeloseuincrementodeproduto(ex.Previneaberturadechamados,melhoraexperiênciadousuário,aumentamaturidadetécnica, …)
+  T| Dev: Nome do dev
+  T| AMBIENTE: PRD, ReleaseouN/A
+  IMG| media/image41.png
+
+################ SLIDE 13 ################
+  T| Título Exemplo do Incremento
+  T| Insiraaquiumadescrição resumindoo que éesseincrementodeprodutoe qual oefeitodissonaaplicação. Umaopçãoédescrevero Antes //Depois.
+  T| Insiraaquiqual valorestásendogeradopeloseuincrementodeproduto(ex.Previneaberturadechamados,melhoraexperiênciadousuário,aumentamaturidadetécnica, …)
+  T| Dev: Nome do dev
+  T| AMBIENTE: PRD, ReleaseouN/A
+  IMG| media/image41.png
+
+################ SLIDE 14 ################
+  T| #105102: Exibição de módulo nas solicitações - Aluno/Responsável
+  T| Na Listagem de Solicitações, foi implementada a exibição do módulo vinculado à proposta nos cards de solicitação para os perfis Aluno e Responsável.Alémdisso,emDetalhesdaSolicitação, o módulo também passa a serexibidoquandoapropostaestivervinculadaa ummódulo.
+  T| Dev: Victor
+  T| AMBIENTE: STAGING
+
+################ SLIDE 15 ################
+  T| #105082: Detalhes do Aluno - Identificação de Módulo(s) no Cabeçalho
+  T| Na tela de Detalhes do Aluno, foi implementada a exibição dos Módulos vinculados ao estudante no cabeçalho, junto às informações de Ano/Série e Turma, permitindo identificar seus vínculos no ano letivo consultado.
+  T| Dev: Victor
+  T| AMBIENTE: STAGING
+
+################ SLIDE 16 ################
+  T| #105077: Listagem de Alunos - Filtrar alunos por módulo
+  T| Passouapermitirquealistagemdealunosretorne,emumúnicoitem, aturmaregular etodososmódulosvinculadosaoaluno,alémdepossibilitarafiltragempelocampoclassId,contemplandotantoturmasquantomódulos.
+  T| Dev: Maicon
+  T| AMBIENTE: STAGING
+
+################ SLIDE 17 ################
+  T| #105082: Detalhes do Aluno - Identificação de Módulo(s) no Cabeçalho
+  T| O endpointfoiatualizadopararetornarumacoleçãodeturmasemódulosdoaluno,incluindoaidentificaçãodotipo(TurmaRegularouMódulo),possibilitandosuaexibiçãonocabeçalhodaaplicação.
+  T| Dev: Maicon
+  T| AMBIENTE: STAGING
+
+################ SLIDE 18 ################
+  T| #105082: Detalhes do Aluno - Identificação de Módulo(s) no Cabeçalho
+  T| O endpointfoiatualizadopararetornarumacoleçãodeturmasemódulosdoaluno,incluindoaidentificaçãodotipo(TurmaRegularouMódulo),possibilitandosuaexibiçãonocabeçalhodaaplicação.
+  T| Dev: Ronaldo
+  T| AMBIENTE: STAGING
+
+################ SLIDE 19 ################
+  T| Qualidade
+
+################ SLIDE 20 ################
+  T| IndicadoresdeQualidade
+  T| Indicador
+  T| Sprint104
+  T| Sprint105
+  T| Sprint106
+  T| Testesiniciais
+  T| 67
+  T| -
+  T| 70
+  T| -
+  T| 97
+  T| 14 retroativo
+  T| Retestes
+  T| 7
+  T| 10
+  T| 17
+  T| 5 retroativo
+  T| Bugs
+  T| 7
+  T| -
+  T| 16
+  T| 5 retroativo
+  T| 2 reincidente
+  T| 8
+  T| 1 reincidente
+  T| Tarefasacompanhadas
+  T| 11
+  T| -
+  T| 10
+  T| -
+  T| 14
+  T| 3 retroativo
+  T| TOTAL DE TESTESINICIAIS
+  T| 234
+  T| soma das sprints
+  T| TOTAL DE RETESTES
+  T| 34
+  T| soma das sprints
+  T| TOTAL DE BUGS
+  T| 35
+  T| soma das sprints
+  T| Execuções totais
+  T| (testes iniciais + retestes)
+  T| % de retestes
+  T| (retestes/execuções totais)
+  T| Sprint 104
+  T| 74
+  T| Sprint 105
+  T| 80
+  T| Sprint 106
+  T| 114
+  T| Sprint 104
+  T| 0,09%
+  T| Sprint 105
+  T| 0,13%
+  T| Sprint 106
+  T| 0,15%
+  IMG| media/image42.png
+  IMG| media/image43.png
+
+################ SLIDE 21 ################
+  T| Bugsporcategoria
+  T| INSIGHTS
+  T| Sprint 104
+  T| Houve aumento do volume e maior diversidade de causas.
+  T| Sprint 105
+  T| Forte concentração em Funcionalidade e Negócio. 2 bugs foram reincidentes
+  T| Sprint 106
+  T| Forte concentração em Funcionalidade e Negócio. 2 bugs foram reincidentes
+
+################ SLIDE 22 ################
+  T| Comparativo de Bugs entre Sprint
+
+################ SLIDE 23 ################
+  T| Produtividade
+
+################ SLIDE 24 ################
+  T| % Estimado= Completed/Planned
+  T| % Assumido= Completed/(Completed+Incomplete)
+  T| Performance de Entregas daSquadpor Sprint
+  T| 138% doEstimado
+  T| 100% doAssumido
+  T| Review 106
+  T| 62% doEstimado
+  T| 60% doAssumido
+  T| Review 105
+  IMG| media/image44.png
+  IMG| media/image45.png
+  IMG| media/image46.png
+
+################ SLIDE 25 ################
+  T| Obrigado!
+
+

@@ -1,0 +1,29 @@
+# ==== Dependências / build ====
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vite/
+
+# ==== Credenciais — NUNCA versionar ====
+.env
+.env.*
+!.env.example
+
+# ==== Artefatos gerados na extração de reviews (prints dos PPTX) ====
+site-time-react/public/slides-auto/
+site-time-react/extraido/
+
+# ==== Junction (aponta para ../fotos-equipe, que já é versionada na raiz) ====
+site-time-react/public/fotos-equipe/
+
+# ==== Pastas de inspeção temporárias ====
+_pptx_inspect/
+_rev107_inspect/
+
+# ==== Sistema operacional / editores ====
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
